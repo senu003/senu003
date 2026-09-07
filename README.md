@@ -1,6 +1,6 @@
 # Hi, I'm Sulakma 👋
 
-Information Technology & Management undergraduate interested in
+Information Technology undergraduate interested in
 full-stack development, AI/ML, and building practical software systems.
 
 ## 🛠️ Technologies
@@ -28,7 +28,7 @@ Navigation system combining web technologies with LoRa-based communication.
 
 ## 🎓 Education
 
-BSc (Hons) in Information Technology & Management
+BSc (Hons) in Information Technology
 University of Moratuwa
 
 ## 📫 Connect
